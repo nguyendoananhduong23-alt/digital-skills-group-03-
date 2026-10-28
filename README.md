@@ -3,7 +3,7 @@ Digital Skills – Group 03
 1. Giới thiệu nhóm
 Tên nhóm: Nhóm 16
 
-Lớp: D26CNTT03
+ Lớp: D26CNTT03
 
 Trường: Trường đại học thủ dầu một 
 
@@ -13,7 +13,7 @@ Nguyễn Thị Hải Huyền
 
 Đinh Công Chí
 
-Nguyễn Đoàn Anh Dương 
+Nguyễn Đoàn Ánh Dương 
 
 6. Chủ đề dự án
 Kỹ năng số và an toàn thông tin dành cho sinh viên năm nhất.
