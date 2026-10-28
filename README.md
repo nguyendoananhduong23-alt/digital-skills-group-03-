@@ -11,7 +11,7 @@ Trường: Trường đại học thủ dầu một
 
 Nguyễn Thị Hải Huyền
 
-Ding9 Công Chí
+Đinh Công Chí
 
 Nguyễn Đoàn Anh Dương 
 
