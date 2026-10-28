@@ -3,7 +3,7 @@ Digital Skills – Group 03
 1. Giới thiệu nhóm
 Tên nhóm: Nhóm 16
 
- Lớp: D26CNTT03
+Lớp: D26CNTT03
 
 Trường: Trường đại học thủ dầu một 
 
